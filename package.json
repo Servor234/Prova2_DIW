@@ -1,0 +1,10 @@
+{
+    "name":"Sistema de biblioteca",
+    "description":"Sistema de armazenamento e busca de livros",
+    "scripts":{
+        "start":"node db/server.js"
+    },
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
